@@ -1,16 +1,8 @@
-# firebase_test
+## firebase_test
 
-A new Flutter project.
+# Sample study for Flutter Firebase CRUD operations by using provider state management.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ After cloning the project, you have to execute flutter pub get command.
+ 
+ you should change firebase base url link and this link is in the service file.
+<img width="561" alt="Ekran Resmi 2023-03-21 16 11 11" src="https://user-images.githubusercontent.com/93714072/226620003-3cc15e94-f3b9-4caa-9f77-362a592aba64.png">
